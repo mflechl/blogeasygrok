@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'easygrok'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
-disqusShortname = 'easygrok'
+# disqusShortname = 'easygrok'
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
