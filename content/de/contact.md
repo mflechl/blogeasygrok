@@ -8,7 +8,6 @@ menu: main
 
 ---
 
+# Using [Formspree](https://formspree.io/). 
 
-Placeholder for now. Reminder to myself: Check out [Formspree](https://formspree.io/). 
-
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/f/mlekvqzz"  >}}
